@@ -166,7 +166,7 @@ cython_debug/
 RowData/
 For Insert Pipline/
 
-.xlsx
+*.xlsx
 .csv
 .txt
 .feather
