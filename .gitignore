@@ -167,6 +167,7 @@ RowData/
 For Insert Pipline/
 
 *.xlsx
+*.ods
 .csv
 .txt
 .feather
